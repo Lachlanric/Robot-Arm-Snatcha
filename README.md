@@ -4,4 +4,4 @@
 
 Entire robot (minus electronics) can be laser cut from 3mm wood or acrylic and fastened with M3 screws.
 
-<video controls src="https://github.com/Lachlanric/Robot-Arm-Snatcha/blob/c297dfb49d23f95a6fab4120c828e88ef28fdc0e/Gallery/VR_Control.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/1d7107a9-4986-4063-b4a9-3a9e8fb0a1fe
