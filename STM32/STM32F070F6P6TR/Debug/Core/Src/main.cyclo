@@ -1,0 +1,14 @@
+../Core/Src/main.c:114:6:updateMotorAngles	1
+../Core/Src/main.c:122:6:moveMotorAngles	2
+../Core/Src/main.c:129:7:newVelocity	19
+../Core/Src/main.c:154:6:approachMotorAngles	2
+../Core/Src/main.c:169:5:main	2
+../Core/Src/main.c:242:6:SystemClock_Config	3
+../Core/Src/main.c:280:13:MX_TIM1_Init	8
+../Core/Src/main.c:359:13:MX_TIM3_Init	8
+../Core/Src/main.c:426:13:MX_TIM14_Init	4
+../Core/Src/main.c:472:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:505:13:MX_DMA_Init	1
+../Core/Src/main.c:523:13:MX_GPIO_Init	1
+../Core/Src/main.c:554:6:HAL_UART_RxCpltCallback	2
+../Core/Src/main.c:572:6:Error_Handler	1
